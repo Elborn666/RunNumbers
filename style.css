@@ -1,0 +1,10 @@
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 50px 20px 20px 20px;
+    text-align: center;
+}
+.text-number {
+    font-size: 50px;
+    font-weight: 700;
+}
